@@ -1,16 +1,15 @@
-## Hi there 👋
+# Всем Привет! 
 
-<!--
-**fromdsto8/fromdsto8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я - Data Scientist, увлечённый анализом данных и машинным обучением. Превращаю данные в полезные модели и помогаю бизнесу решить его задачи.
 
-Here are some ideas to get you started:
+- Работаю над интересными пет-проектами и практическими задачами по Data Science
+- Связаться со мной: kriol7766@yandex.ru
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Технологии и инструменты
+
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/doc/)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/documentation)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/documentation.html)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/stable/contents.html)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en)
